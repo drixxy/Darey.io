@@ -15,6 +15,7 @@ This repository serves as a central hub for all the mini-projects and capstone p
 The repository is organized by project. Each project has its own directory containing all relevant files and a detailed `README.md` file.
 
 
+<pre><code>
 Darey.io/
 ├── 1-DevOps-Tech-Environment/
 │   └── README.md
@@ -23,6 +24,7 @@ Darey.io/
 ├── 3-ai-startup-websites/
 │   └── README.md
 └── ... (Future projects)
+</code></pre>
 
 
 ## Projects
@@ -31,12 +33,10 @@ Here's a list of the projects included in this repository so far:
 
 ### Mini-Projects
 
-1.  **[DevOps Tech Environment Setup](1-DevOps-Tech-Environment/)** - [Project 1 README](./DevOps-Tech-Environment/README.md/)
-    * Description: This project involved setting up my local DevOps development environment.
-2.  **[Index.html](2-Index-html/)** - [Project 2 README](./2-Index-html/README.md)
-    * Description: This project focused on creating a basic website.
-3.  **[AI Startup Websites](3-ai-startup-websites/)** - [Project 3 README](./3-ai-startup-websites/README.md)
-    * Description: This project involved developing websites for AI startups.
+1.  **[DevOps Tech Environment Setup](./DevOps-Tech-Environment/)**
+2.  **[Index.html](./Index.html/)**
+3.  **[AI Startup Websites](./ai-startup-website/)**
+
 
 ##  Future Projects
 
